@@ -1,4 +1,4 @@
-# Sales Azure PowerBI Dashboard
+# Sales Data Pipeline using Azure Synapse + Power BI
 
 ## 📊 Project Overview
 
